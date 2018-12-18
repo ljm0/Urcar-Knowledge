@@ -1,0 +1,9 @@
+Dear customer,
+
+  Please input your personal data, requirements and additional information (preferences) in the blanks. After clicking "Confirm" button, our system will then automatically design the car purchase plan for you.
+
+  For some blanks, you can only input one of the given words in the brackets. Because for now the limitation of our database, the unreasonable input or the processing capacity of program, maybe the system will generate no result. Please contact the consultor and find out where the problem is and re-input the requirements.
+
+  Thank you for using our Urcar system!
+  
+Sincerely

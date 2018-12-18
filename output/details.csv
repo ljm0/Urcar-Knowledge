@@ -1,0 +1,27 @@
+Make,Model body (platform) years,Modelversion,Car classification,Bodytype,No. of doors,Noofseats,Engine place,Drivetrain,Cylinders,Displacement,Power,"Power
+(PS)","Power
+(rpm)","Torque
+(Nm)","Torque
+(rpm)","Valves per
+cylinder",Fuel injection ,Supercharger,Manual,Automatic,"Suspension
+front","Suspension
+rear",Assisted steering,"Turning circle
+(m)",Brakes front,Brakes rear,Tire size,"Wheel base
+(mm)","Length
+(mm)","Width
+(mm)","Height
+(mm)","Curb weight
+(kg)","Gross weight
+(kg)","Load
+(kg)","Stuetzlast
+(kg)","Roof load
+(kg)","Cargo space
+(litres)","Tow weight
+(kg)","Gas tank
+(litres)","0-100 kmph
+(sec)","Max speed
+(km/h)","Fuel eff
+(l/100km)","Fuel eff
+city (l/100km)","Fuel eff highway
+(l/100km)",Engine type,Fuel,"CO2
+(g/km)",CO2 efficiency class,Pollution class,price
